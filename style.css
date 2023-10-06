@@ -3,10 +3,10 @@
   width: 100px;
   height: 100px;
   border: 1px solid red;
+  transition: 4s;
 }
 
 .ex-1-square:hover {
-  transition: 4s;
   background-color: red;
 }
 
@@ -15,10 +15,10 @@
   width: 100px;
   height: 100px;
   background: red;
+  transition: 4s;
 }
 
 .ex-2-square:hover {
-  transition: 4s;
   width: 60%;
 }
 
@@ -27,6 +27,13 @@
   width: 100px;
   height: 100px;
   background: red;
+  transition: 4s;
+}
+
+.ex-3-square:hover {
+  border-radius: 80%;
+  background-color: yellow;
+  border: 1px dashed black;
 }
 
 /* ESERCIZIO 4 */
