@@ -82,16 +82,13 @@
 }
 
 /* ESERCIZIO 7 */
-/*
 .ex-7-img {
-  transition: 3s;
+  transition: 2s;
 }
 
 .ex-7-img:hover {
-  filter: grayscale(1);
-  filter: sepia(0.5);
+  filter: grayscale(1) brightness(0.7);
 }
-*/
 
 /* ESERCIZIO 9 */
 .ex-9-img {
