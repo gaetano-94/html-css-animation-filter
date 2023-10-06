@@ -116,6 +116,13 @@
 /* ESERCIZIO 10 */
 .ex-10-icon {
   font-size: 60px;
+  animation: spin 5s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(1turn);
+  }
 }
 
 /* ESERCIZIO 11 */
