@@ -72,6 +72,27 @@
   width: 500px;
 }
 
+/* ESERCIZIO 6 */
+.ex-6-img {
+  transition: 4s;
+}
+
+.ex-6-img:hover {
+  filter: grayscale(3);
+}
+
+/* ESERCIZIO 7 */
+/*
+.ex-7-img {
+  transition: 3s;
+}
+
+.ex-7-img:hover {
+  filter: grayscale(1);
+  filter: sepia(0.5);
+}
+*/
+
 /* ESERCIZIO 9 */
 .ex-9-img {
   margin: 50px 100px;
